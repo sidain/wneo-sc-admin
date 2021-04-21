@@ -1,1 +1,0 @@
-SELECT * FROM wp1.wp_wneof_settings;
